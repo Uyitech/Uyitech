@@ -17,7 +17,7 @@
     <a href="https://www.wa.me/23480574421760" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"
       alt="Evans Ewansiha" height="30" width="40" /></a> 
-  <a href="https://fb.com/uyi.banks" target="blank"><img align="center"
+  <a href="https://fb.com/uyi.banks.73" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="Evans Ewansihaa" height="30" width="40" /></a> 
   <a href="https://www.instagram.com/uyiosa02" target="blank"><img align="center"
