@@ -2,7 +2,7 @@
 
 <h3>A FullStack Web And UI & UX Designer</h3>
 
-<br>
+
 
 <!-- <ul>
   <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://flowcv.io/resume/feedback/lMhKFXfgJjf8">My Resume</a>.</li>
@@ -29,6 +29,15 @@
 </p>
 
 <br>
+
+Talking About Personal Stuff:
+
+- 🔭 I’m currently working on something cool 🥰🙂,
+- 🌱 I’m currently learning Web Development,
+- 💬 Ask me about anything. I am happy to help,
+- 📫 How to reach me: ewansihaevans@gmail.com,
+- ⚡ Fun fact: I love Gaming 🎮 & Coding 💻.
+
 
 <h3 align="left">Languages and Tools:</h3>
    <a href="https://figma.com/" target="_blank" rel="noreferrer"><img
@@ -74,24 +83,14 @@
 <br>
 <br>
 
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uyitech&layout=compact&theme=light&hide_border=true" />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uyitech&" alt="uyitech" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uyitech&" alt="uyitech" />
+</p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Uyitech&show_icons=true&include_all_commits=true&theme=light&count_private=true&hide_border=true&border_radius=2&hide=contribs" alt="Uyitech's github stats" /> 
 
+
 <br />
 <br />
 
-<!--
-**Uyitech/Uyitech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
