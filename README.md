@@ -83,11 +83,11 @@
 > <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uyitech&layout=compact&theme=light&hide_border=true" /></p>
 > <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uyitech&" alt="uyitech" />
 > </p>
-> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Uyitech&show_icons=true&include_all_commits=true&theme=light&count_public=true&hide_border=true&border_radius=2&hide=contribs" alt="Ewansiha.Evans's github stats" /> 
+> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Uyitech&show_icons=true&include_all_commits=true&theme=light&count_public=true&hide_border=true&border_radius=2&hide=contribs" alt="Uyitech's github stats" />
 >
 > <br>
 > <br>
 > 
 > <b>Note:</b> The top languages shown here is just a measure of what i have posted here on Github and not my actual skill level.
 >
-> <a href="https://github.com/Uyitech/github-readme-activity-graph"><img alt="Ewansiha.Evans' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Uyitech&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+> <a href="https://github.com/Uyitech/github-readme-activity-graph"><img alt="uyitech' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Uyitech&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
