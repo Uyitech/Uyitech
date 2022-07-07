@@ -1,7 +1,7 @@
 > <a> <img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"></a>
 >
 > <h1 align="center">Hi I've been waiting for you</h1>
-> <h3 align="center">I'm a Full Stack Web and UI/UX Designer, I have serious passion for UI effects, animations, creating intuitive and dynamic users experience.</h3>
+> <h3 align="center">I'm a Full Stack Developer & UI/UX Designer, I have serious passion for UI effects, animations, creating intuitive and dynamic users experience.</h3>
 >
 > <br>
 >
@@ -85,11 +85,11 @@
 > <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uyitech&layout=compact&theme=light&hide_border=true" /></p>
 > <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uyitech&" alt="uyitech" />
 > </p>
-> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Uyitech&show_icons=true&include_all_commits=true&theme=light&count_private=true&hide_border=true&border_radius=2&hide=contribs" alt="Uyitech's github stats" /> 
+> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Uyitech&show_icons=true&include_all_commits=true&theme=light&count_public=true&hide_border=true&border_radius=2&hide=contribs" alt="Ewansiha.Evans's github stats" /> 
 >
 > <br>
 > <br>
 > 
 > <b>Note:</b> The top languages shown here is just a measure of what i have posted here on Github and not my actual skill level.
 >
-> <a href="https://github.com/Uyitech/github-readme-activity-graph"><img alt="Uyitech' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Uyitech&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+> <a href="https://github.com/Uyitech/github-readme-activity-graph"><img alt="Ewansiha.Evans' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Uyitech&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
