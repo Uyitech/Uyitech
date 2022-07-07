@@ -11,8 +11,6 @@
 > 
 > - 🔭 I’m currently working on something cool 🥰🙂.
 >
-> - 🌱 I’m currently learning Web Development.
->
 > - 💬 Ask me about anything. I am happy to help.
 > 
 > - 📫 How to reach me: ewansihaevans@gmail.com.
