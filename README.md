@@ -1,13 +1,13 @@
 > <a> <img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"></a>
 >
 > <h1 align="center">Hi I've been waiting for you</h1>
-> <h3 align="center">I'm a Full Stack Developer & UI/UX Designer, I have serious passion for UI effects, animations, creating intuitive and dynamic users experience.</h3>
+> <h3 align="center">I'm a Front-end & UI/UX Designer, I have serious passion for UI effects, animations, creating intuitive and dynamic users experience.</h3>
 >
 > <br>
 >
 > Talking About Personal Stuff:
 >
-> - 🔭 I’m a Full Stack Web || Software Engineer || UI & UX Designer.
+> - 🔭 I’m a Front-end Web || Software Engineer || UI & UX Designer.
 > 
 > - 🔭 I’m currently working on something cool 🥰🙂.
 >
