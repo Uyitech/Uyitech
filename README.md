@@ -28,10 +28,10 @@
 >   <a href="https://fb.com/uyi.banks.73" target="blank"><img align="center"
 >       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
 >       alt="Evans Ewansihaa" height="30" width="40" /></a> 
->   <a href="https://www.instagram.com/uyiosa02" target="blank"><img align="center"
+>   <a href="https://www.instagram.com/uyitech1" target="blank"><img align="center"
 >       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
 >       alt="Evans Ewansiha" height="30" width="40" /></a> 
->  <a href="https://twitter.com/uyiosa02" target="blank"><img align="center"
+>  <a href="https://twitter.com/uyitech1" target="blank"><img align="center"
 >       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
 >       alt="uyitech" height="30" width="40" /></a> 
 > </p>
