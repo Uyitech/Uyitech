@@ -84,7 +84,6 @@
 > <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uyitech&" alt="uyitech" />
 > </p>
 > <img align="center" src="https://github-readme-stats.vercel.app/api?username=uyitech&show_icons=true&include_all_commits=true&theme=light&count_public=true&hide_border=true&border_radius=2&hide=contribs" alt="uyitech's github stats" />
->
 > 
 >
 > <br>
@@ -95,11 +94,11 @@
 > <a href="https://github.com/uyitech/github-readme-activity-graph"><img alt="uyitech' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Uyitech&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 >
 >
->   ## ❤ Views and Followers.
+>  ## ❤ Views and Followers.
 >  <a href="https://github.com/Uyitech/github-profile-views-counter">
->    <img src="https://komarev.com/ghpvc/?username=uyitech">
+>    <img src="https://komarev.com/ghpvc/?username=Uyitech">
 >  </a>
->  <a href="https://github.com/uyitech?tab=followers"><img src="https://img.shields.io/github/followers/uyitech?label=Followers&style=social" alt="GitHub Badge"></a>
+>  <a href="https://github.com/uyitech?tab=followers"><img src="https://img.shields.io/github/followers/uyitech?label=Followers&style=social"alt="GitHub Badge"></a>
 >  
 >
 >
